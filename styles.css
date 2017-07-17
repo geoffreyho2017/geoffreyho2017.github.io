@@ -1,0 +1,21 @@
+#Salute {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  font-family: Georgia;
+}
+body {background-color: pink;
+      background-image: url("flag.png");}
+
+
+.img {
+  max-width: 70%;
+  margin: 100px 150px 100px 80px;
+}
+
+a.visit_link:hover, a.visit_link:active {color: red;
+
+}
